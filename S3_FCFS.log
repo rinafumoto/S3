@@ -1,0 +1,20 @@
+***Log File -FCFS***
+ID Event Accepted/Rejected
+**************************
+1 addPeriod 20190408 20190421 1900 2300  accepted
+2 addAssignment COMP2432A1 20190418 12  accepted
+3 addProject COMP2422P1 20190420 26  accepted
+4 addRevision COMP2000 20190414 1900 2  rejected
+5 addActivity Meeting 20190418 2000 2  accepted
+6 addAssignment COMP2422A1 20190417 12  rejected
+7 addAssignment COMP3433A1 20190421 10  accepted
+8 addProject COMP2433P1 20190420 26  rejected
+9 addRevision COMP2000 20190418 2300 2  rejected
+10 addActivity Meeting 20190420 2000 1  rejected
+11 addActivity Meeting 20190410 1900 2  rejected
+12 addRevision COMP2000 20190411 2000 2  rejected
+13 addActivity Meeting 20190408 1900 4  rejected
+14 addAssignment COMP3021A1 20190415 20  rejected
+15 addAssignment COMP3021A2 20190421 25  rejected
+16 addRevision COMP2000 20190410 2100 3  rejected
+17 addAssignment COMP2422A2 20190410 17 rejected
